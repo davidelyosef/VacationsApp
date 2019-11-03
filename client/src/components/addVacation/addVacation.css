@@ -1,0 +1,9 @@
+.addVacation label {
+    display: block;
+}
+.addVacation {
+    text-align: center;
+}
+label span {
+    background-color: whitesmoke;
+}

@@ -1,0 +1,63 @@
+.navBar  .navBtn:hover {
+    background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.navBar nav {
+    margin-top: -12px;
+}
+.navBar h2 {
+    display: inline-block;
+}
+.navBar .navBtn {
+    box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:4px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ffee66;
+}
+.navBar .navBtn:active {
+    position:relative;
+	top:1px;
+}
+.navBar {
+    text-align: center;
+    background-color: lightcyan;
+    opacity: 0.8;
+    margin: -8px;
+    border-bottom: 2px solid black;
+    position: relative;
+    padding: 20px;
+    top: -4px;
+    position: sticky;
+    height: 10px;
+}
+.navBar .loginLink {
+    float: right;
+    position: relative;
+    left: 10px;
+}
+.seperate {
+    font-size: 25px;
+    text-shadow: 5ch;
+}
+.welcomeMsg {
+    float: left;
+    position: relative;
+    bottom: 20px;
+}
+.loginLink > button {
+    position: relative;
+    bottom: 20px;
+}
+.navBar span {
+    font-size: xx-large;
+}

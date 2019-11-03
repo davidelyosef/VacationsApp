@@ -1,0 +1,6 @@
+.heading > h2 {
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-shadow: 2px 2px 4px blue;
+}

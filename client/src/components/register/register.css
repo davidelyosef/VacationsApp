@@ -1,0 +1,8 @@
+.content > p {
+    font-size: xx-large;
+}
+.form-group > span {
+    color: red;
+    font-size: larger;
+    background-color: white;
+}
